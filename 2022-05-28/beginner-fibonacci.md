@@ -37,7 +37,7 @@ Use DOM APIs to display `F_0` through `F_20` in a bulleted list, like this:
 - F_2 = 1
 - (and so on)
 
-If the Fibonacci number is divisble by 3, make the text green and bold. All other list items will use the default text color.
+If the Fibonacci number is divisible by 3, make the text green and bold. All other list items will use the default text color.
 
 ## Reference Solution
 
